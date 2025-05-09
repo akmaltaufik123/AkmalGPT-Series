@@ -57,7 +57,8 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 
 ## Screenshots
 
-
+![Screenshot](./1AkmalAI_Gemini_1.5_Flash_model.jpg)
+![Screenshot](./2AkmalAI_Gemini_1.5_Flash_model.jpg)
 
 ---
 
