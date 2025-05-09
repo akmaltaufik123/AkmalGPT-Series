@@ -24,10 +24,10 @@ AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), ea
 ---
 
 ## Architecture Overview
-- Device: Xiaomi Redmi 7
+- Device: POCO C75
 - Environment: Termux (F-Droid version)
 - Language: Python
-- Deployment**: Telegram Bot API
+- Deployment: Telegram Bot API
 - Model Access: OpenRouter API, Gemini API
 
 ---
@@ -49,7 +49,6 @@ AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), ea
 
 - Run entirely on smartphone with no GPU
 - Support for multi-agent conversations
-- Model switching via button-based Telegram UI
 - Modular design with fallback logic
 - Built-in prompt chaining & system roles
 - Real-time responses with minimal latency
@@ -58,7 +57,7 @@ AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), ea
 
 ## Screenshots
 
-> *(Add screenshots of your bot interface, prompt input/output, or Termux environment here)*
+
 
 ---
 
@@ -74,9 +73,7 @@ AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), ea
 ## Future Plans
 
 - Add lightweight AI memory per session
-- Integrate vector-based memory via TinyDB or local embedding
 - Build CLI-only chatbot version (offline fallback mode)
-- Public release with open config setup
 
 ---
 
