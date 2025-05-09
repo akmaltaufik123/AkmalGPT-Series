@@ -65,7 +65,9 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 ![Screenshot](./1AkmalGPT_Mistral_7B_Instruct_model.jpg)
 ![Screenshot](./2AkmalGPT_Mistral_7B_Instruct_model.jpg)
 
-## AkmalGPT2:
+## AkmalGPT2: Command R+ Model
+![Screenshot](./1AkmalGPT2_Command_R+_model.jpg)
+![Screenshot](./2AkmalGPT2_Command_R+_model.jpg)
 
 ## Why This Project Matters
 
