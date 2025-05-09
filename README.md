@@ -58,16 +58,13 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 ## Screenshots
 
 ## Akmal AI: Gemini 1.5 Flash Model
-![Screenshot](./1AkmalAI_Gemini_1.5_Flash_model.jpg)
-![Screenshot](./2AkmalAI_Gemini_1.5_Flash_model.jpg)
+![Screenshot](./AkmalAIGemini1.5FlashModel.jpg)
 
 ## AkmalGPT: Mistral 7B Instruct Model
-![Screenshot](./1AkmalGPT_Mistral_7B_Instruct_model.jpg)
-![Screenshot](./2AkmalGPT_Mistral_7B_Instruct_model.jpg)
+![Screenshot](./AkmalGPTMistral7BInstructModel.jpg)
 
 ## AkmalGPT2: Command R+ Model
-![Screenshot](./1AkmalGPT2_Command_R+_model.jpg)
-![Screenshot](./2AkmalGPT2_Command_R+_model.jpg)
+![Screenshot](./AkmalGTP2CommandR+Model.jpg)
 
 ## Why This Project Matters
 
