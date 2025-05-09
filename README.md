@@ -2,7 +2,7 @@
 A multi-agent AI bot series built entirely on a smartphone using API-based LLMs (OpenRouter & Gemini). Runs fully on Termux and Telegram Bot, simulating practical AI integration in resource-limited environments.
 # AkmalGPT-Series
 
-AkmalGPT-Series:is a lightweight multi-agent AI bot series developed entirely using a smartphone (POCO C75) via Termux. This project demonstrates the ability to build practical AI-powered bots using API-based LLMs without any heavy computation or model training.
+AkmalGPT-Series is a seven lightweight multi-agent AI bot series developed entirely using a smartphone (POCO C75) via Termux. This project demonstrates the ability to build practical AI-powered bots using API-based LLMs without any heavy computation or model training.
 
 ---
 
