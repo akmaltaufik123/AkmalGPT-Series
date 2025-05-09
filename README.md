@@ -1,8 +1,8 @@
 # AkmalGPT-Series
-A multi-agent AI bot series built entirely on a smartphone using API-based LLMs (OpenRouter &amp; Gemini). Runs fully on Termux, simulating practical AI integration in resource-limited environments.
+A multi-agent AI bot series built entirely on a smartphone using API-based LLMs (OpenRouter & Gemini). Runs fully on Termux and Telegram Bot, simulating practical AI integration in resource-limited environments.
 # AkmalGPT-Series
 
-AkmalGPT-Series:is a lightweight multi-agent AI bot series developed entirely using a smartphone (Xiaomi Redmi 7) via Termux. This project demonstrates the ability to build practical AI-powered bots using API-based LLMs without any heavy computation or model training.
+AkmalGPT-Series:is a lightweight multi-agent AI bot series developed entirely using a smartphone (POCO C75) via Termux. This project demonstrates the ability to build practical AI-powered bots using API-based LLMs without any heavy computation or model training.
 
 ---
 
@@ -19,7 +19,7 @@ AkmalGPT-Series:is a lightweight multi-agent AI bot series developed entirely us
 
 ## Project Summary
 
-AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), each experimenting with different LLMs and prompts. The entire series runs on a smartphone using Termux, simulating real-world AI integration under extreme resource constraints.
+AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, AkmalGPT4, AkmalGPT5, AkmalGPT6 & Akmal AI), each experimenting with different LLMs and prompts. The entire series runs on a smartphone using Termux, simulating real-world AI integration under extreme resource constraints.
 
 ---
 
@@ -28,26 +28,26 @@ AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), ea
 - Environment: Termux (F-Droid version)
 - Language: Python
 - Deployment: Telegram Bot API
-- Model Access: OpenRouter API, Gemini API
+- Model Access: OpenRouter API & Gemini API
 
 ---
 
 ## LLMs Used
 
 - OpenRouter models:
-  - Mixtral-8x7B
-  - Claude-3
-  - GPT-4/3.5 via proxy
-  - MythoMax
+  - Mistral 7B Instruct
   - Command R+
-- Gemini:
-  - Google Gemini Pro 1.5 (text-based)
+  - OpenChat 3.5
+  - Qwen
+  - Qwen3 1.7B
+  - DeepSeek V3 Base
+  - Gemini 1.5 Flash
 
 ---
 
 ## Key Features
 
-- Run entirely on smartphone with no GPU
+- Run entirely on smartphone with no actual and proper GPU
 - Support for multi-agent conversations
 - Modular design with fallback logic
 - Built-in prompt chaining & system roles
@@ -74,7 +74,7 @@ AkmalGPT-Series consists of six AI agents (AkmalGPT, AkmalGPT2 to AkmalGPT6), ea
 
 - Add lightweight AI memory per session
 - Build CLI-only chatbot version (offline fallback mode)
-
+- Build LLMs from scratch for commercial use
 ---
 
 ## License
