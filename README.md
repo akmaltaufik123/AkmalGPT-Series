@@ -35,13 +35,13 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 ## LLMs Used
 
 - OpenRouter models:
-  - Mistral 7B Instruct
-  - Command R+
-  - OpenChat 3.5
-  - Qwen
-  - Qwen3 1.7B
-  - DeepSeek V3 Base
   - Gemini 1.5 Flash
+  - Mistral 7B Instruct Model
+  - Command R+
+  - DeepHermes 3 24B Mistral Preview
+  - DeepSeek V3 0324 Model
+  - Qwen3 1.7B Model
+  - DeepSeek Prover V2 Model
 
 ---
 
@@ -65,6 +65,19 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 
 ## AkmalGPT2: Command R+ Model
 ![Screenshot](./AkmalGTP2CommandR+Model.jpg)
+
+## AkmalGPT3: DeepHermes 3 24B Mistral Preview
+![Screenshot](./AkmalGTP3DeepHermes324BMistralPreviewModel.jpg)
+
+## AkmalGPT4: DeepSeek V3 0324 Model
+![Screenshot](./AkmalGPT4DeepSeekV30324Model.jpg)
+
+## AkmalGPT5: Qwen3 1.7B Model
+![Screenshot](./AkmalGPT5Qwen31.7BModeljpg)
+
+## AkmalGPT6: DeepSeek Prover V2 Model
+![Screenshot](./AkmalGPT6DeepSeekProverV2jpg)
+
 
 ## Why This Project Matters
 
@@ -93,4 +106,4 @@ MIT License (or your preferred license)
 Akmal Taufik
 - [LinkedIn](https://www.linkedin.com/in/akmaltaufik)  
 - work.akmaltaufik@gmail.com  
-- WhatsApp: +60189451570
+- [WhatsApp](https://wa.me/message/X5E7COZJHTFRK1)
