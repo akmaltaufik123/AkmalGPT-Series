@@ -67,7 +67,7 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 ![Screenshot](./AkmalGTP2CommandR+Model.jpg)
 
 ## AkmalGPT3: DeepHermes 3 24B Mistral Preview
-![Screenshot](./AkmalGTP3DeepHermes324BMistralPreviewModel.jpg)
+![Screenshot](./AkmalGPT3DeepHermes24BMistralPreviewModel.jpg)
 
 ## AkmalGPT4: DeepSeek V3 0324 Model
 ![Screenshot](./AkmalGPT4DeepSeekV30324Model.jpg)
