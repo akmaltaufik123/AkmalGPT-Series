@@ -113,7 +113,7 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 **Note:** To use Mistral 7B Instruct in your own deployment, you can access this model via OpenRouter, which provides a seamless platform for deploying and interacting with large language models. Simply integrate it into your Telegram bot through the OpenRouter API and configure your bot to connect to the local or hosted endpoint. This eliminates the need for setting up a separate inference backend like Ollama, Text Generation WebUI, Llama.cpp, or vLLM.
 
 ## AkmalGPT2: Command R+ Model
-![Screenshot](./AkmalGTP2CommandR+Model.jpg)
+![Screenshot](./AkmalGPT2CommandR+Model.jpg)
 
 **Command R+ Integration**
 
