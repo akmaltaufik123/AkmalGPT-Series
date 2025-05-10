@@ -36,12 +36,12 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 
 - OpenRouter models:
   - Gemini 1.5 Flash
-  - Mistral 7B Instruct Model
+  - Mistral 7B Instruct
   - Command R+
   - DeepHermes 3 24B Mistral Preview
-  - DeepSeek V3 0324 Model
-  - Qwen3 1.7B Model
-  - DeepSeek Prover V2 Model
+  - DeepSeek V3 0324
+  - Qwen3 1.7B
+  - DeepSeek Prover V2
 
 ---
 
@@ -73,10 +73,10 @@ AkmalGPT-Series consists of seven AI agents (AkmalGPT, AkmalGPT2, AkmalGPT3, Akm
 ![Screenshot](./AkmalGPT4DeepSeekV30324Model.jpg)
 
 ## AkmalGPT5: Qwen3 1.7B Model
-![Screenshot](./AkmalGPT5Qwen31.7BModeljpg)
+![Screenshot](./AkmalGPT5Qwen31.7BModel.jpg)
 
 ## AkmalGPT6: DeepSeek Prover V2 Model
-![Screenshot](./AkmalGPT6DeepSeekProverV2jpg)
+![Screenshot](./AkmalGPT6DeepSeekProverV2.jpg)
 
 
 ## Why This Project Matters
